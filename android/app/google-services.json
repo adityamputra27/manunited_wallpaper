@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556178804571",
+    "project_id": "manunited-wallpaper-4ff2a",
+    "storage_bucket": "manunited-wallpaper-4ff2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556178804571:android:b0e7bf0f0a7666dd8a547e",
+        "android_client_info": {
+          "package_name": "com.example.manunited_wallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOgLT1MNEPx0RhSFcR7f-dDtE17APU6CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
