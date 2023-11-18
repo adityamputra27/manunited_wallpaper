@@ -1,4 +1,4 @@
-# manunited_wallpaper
+# Manchester United Wallpaper
 
 A new Flutter project.
 
